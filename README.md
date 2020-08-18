@@ -27,35 +27,29 @@ Along with this user can pre-book the meal and a table for him as well, with the
 - [ ] Details of a dish
 - [ ] Payment Functionality
 
-<h2 align= "center"><b>Project Maintainer</b></h2>
-<a href="https://github.com/Shruti3004" align="center"><b>Shruti Agarwal</b></h4></a>
+<h3><b>Quick Start</b></h3>
 
-### __Made with 💖 for open source__
-
-
-
-Quick Start rocket
-Add a default.json file in config folder with the following
-{
-   "mongoURI": "<your_mongoDB_Atlas_uri_with_credentials>",
-  "jwtSecret": "secret",
-  "CLOUD_NAME": "Cloudiary Cloud name",
-  "API_ID":"Cloudinary API ID",
-  "API_SECRET":"Cloudinary API secret", 
-}
-Install server dependencies
+##### `Install server dependencies`
 npm install
-Install client dependencies
+
+##### `Install client dependencies`
 cd client
 npm install
-Run both Express & React from root
+
+##### `Run both Express & React from root`
 npm run dev
-Build for production
+
+##### `Build for production`
 cd client
 npm run build
+
 Test production before deploy
 After running a build in the client point_up_2, cd into the root of the project.
 And run...
 
 NODE_ENV=production node index.js
 Check in browser on http://localhost:5000/
+
+
+<h2 align= "center"><b>Project Maintainer</b></h2>
+<p align="center"><a href="https://github.com/Shruti3004"><b>Shruti Agarwal</b></h4></a></p>
