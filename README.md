@@ -15,21 +15,17 @@ Along with this user can pre-book the meal and a table for him as well, with the
 <h4>Using React hooks to improve the app performance</h4>
 <ul>
 <li>React Hooks are the way to use stateful functions inside a functional component. Functional components are components written as a function, so they take some input (props) and return a react element.</li>
-<li>More information https://reactjs.org/docs/hooks-intro.html<li>
-<li>Using React Hooks will improve the performance of our project as it uses memorization techniques to avoid re-rendering of the component.<li>
+<li>More information https://reactjs.org/docs/hooks-intro.html</li>
+<li>Using React Hooks will improve the performance of our project as it uses memorization techniques to avoid re-rendering of the component.</li>
 </ul>
  
-
-
-And on the top of that your faculty won't accept printed ones? 
-
 <p align="center"><img width=50% src="https://media.giphy.com/media/6k5aYgBKTxe3C/giphy.gif"></p>
 
 Don't have the time and energy to cope up with this?
 
 <p align="center"><img width=50% src="https://media.giphy.com/media/biQcYyVoNJoA0/giphy.gif"></p>
 
-Worry not! We are here to save you from your misery 🦸‍♂️. Doc2pen is your one stop solution to upload any document or write it yourself and get an handwritten assignment out instantly!
+Worry not! We are here to save you from your misery 🦸‍♂️. Eateria is your one stop solution to upload any document or write it yourself and get an handwritten assignment out instantly!
 
 <p align="center"><img width=50% src="https://media.giphy.com/media/Lo6LNpySgc0qlzoOKR/giphy.gif"></p>
 
