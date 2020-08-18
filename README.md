@@ -19,14 +19,6 @@ Along with this user can pre-book the meal and a table for him as well, with the
 <li>Using React Hooks will improve the performance of our project as it uses memorization techniques to avoid re-rendering of the component.</li>
 </ul>
  
-<h3><b>Low fidelity Wireframes</b></h3>
-<p align="center"><img width=50% src="https://media.giphy.com/media/6k5aYgBKTxe3C/giphy.gif"></p>
-
-<p align="center">Source: Own Creation</p>
- Worry not! We are here to save you from your misery 🦸‍♂️. Eateria is your one stop solution to upload any document or write it yourself and get an handwritten assignment out instantly!
-
-
-
 <h3><b>Features</b></h3>
 
 - [ ] Email Authentication
@@ -35,22 +27,8 @@ Along with this user can pre-book the meal and a table for him as well, with the
 - [ ] Details of a dish
 - [ ] Payment Functionality
 
-<h2 align= "center"><b> Project Maintainer</b></h2>
-
-<p align="center">
-<img width=20% src="https://avatars2.githubusercontent.com/u/46641503?v=4">
-</p>
-
-<a href="https://github.com/smaranjitghose">
-<h4 align="center"><b>Smaranjit Ghose</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<a href="https://github.com/anushbhatia"><b>Anush Bhatia</b></h4></a>
-
-
-<a href="./Code_of_conduct.md"><h2 align= "center"><b> Code of Conduct</b></h2></a> 
-<p align="center"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></p>
-
-<a href="./License.md"><h2 align= "center"><b> License</b></h2></a> 
-<p align="center"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></p>
+<h2 align= "center"><b>Project Maintainer</b></h2>
+<a href="https://github.com/Shruti3004" align="center"><b>Shruti Agarwal</b></h4></a>
 
 ### __Made with 💖 for open source__
 
