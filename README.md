@@ -12,6 +12,13 @@ Along with this user can pre-book the meal and a table for him as well, with the
 <li>Firebase</li>
 <li>Nodejs</li>
 </ul>
+<h4>Using React hooks to improve the app performance</h4>
+<ul>
+<li>React Hooks are the way to use stateful functions inside a functional component. Functional components are components written as a function, so they take some input (props) and return a react element.</li>
+<li>More information https://reactjs.org/docs/hooks-intro.html<li>
+<li>Using React Hooks will improve the performance of our project as it uses memorization techniques to avoid re-rendering of the component.<li>
+</ul>
+ 
 
 
 And on the top of that your faculty won't accept printed ones? 
