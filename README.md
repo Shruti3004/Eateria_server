@@ -19,45 +19,21 @@ Along with this user can pre-book the meal and a table for him as well, with the
 <li>Using React Hooks will improve the performance of our project as it uses memorization techniques to avoid re-rendering of the component.</li>
 </ul>
  
+<h3><b>Low fidelity Wireframes</b></h3>
 <p align="center"><img width=50% src="https://media.giphy.com/media/6k5aYgBKTxe3C/giphy.gif"></p>
 
-Don't have the time and energy to cope up with this?
-
-<p align="center"><img width=50% src="https://media.giphy.com/media/biQcYyVoNJoA0/giphy.gif"></p>
-
-Worry not! We are here to save you from your misery 🦸‍♂️. Eateria is your one stop solution to upload any document or write it yourself and get an handwritten assignment out instantly!
-
-<p align="center"><img width=50% src="https://media.giphy.com/media/Lo6LNpySgc0qlzoOKR/giphy.gif"></p>
+<p align="center">Source: Own Creation</p>
+ Worry not! We are here to save you from your misery 🦸‍♂️. Eateria is your one stop solution to upload any document or write it yourself and get an handwritten assignment out instantly!
 
 
-# Tasks:
 
-Features:
+<h3><b>Features</b></h3>
 
-- [ ] Font Size
-- [ ] Font Type
-- [ ] Font Color
-- [ ] Letter Spacing
-- [ ] Page Margins
-- [ ] Page Lines
-- [ ] Page Background
-- [ ] Adjust X Pos
-- [ ] Adjust Y Pos
-- [ ] Download Options: PNG,JPEG,JPEG,DOCX,PDF
-- [ ] New Page
-- [ ] Google Docs Integration
-
-Addons:
-
-- Using GANS or Transformers to generate your homeworks!
-
-- [ ] Front End Development
-  - [ ] Revamp the UI
-  - [ ] Donation Page
-  - [ ] Menu Bar
-  - [ ] Footer
-  
-- [ ] Collection of Custom Fonts
+- [ ] Email Authentication
+- [ ] Expected Time
+- [ ] Search Bar
+- [ ] Details of a dish
+- [ ] Payment Functionality
 
 <h2 align= "center"><b> Project Maintainer</b></h2>
 
