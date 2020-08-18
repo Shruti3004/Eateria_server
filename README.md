@@ -27,7 +27,7 @@ Along with this user can pre-book the meal and a table for him as well, with the
 - [ ] Details of a dish
 - [ ] Payment Functionality
 
-<h3><b>Quick Start</b></h3>
+<h3><b>Quick Start :rocket: </b></h3>
 
 ##### `Install server dependencies`
 npm install
@@ -43,9 +43,9 @@ npm run dev
 cd client
 npm run build
 
-Test production before deploy
+Test production before deploy. <br>
 After running a build in the client point_up_2, cd into the root of the project.
-And run...
+And run..
 
 NODE_ENV=production node index.js
 Check in browser on http://localhost:5000/
