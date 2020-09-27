@@ -1,5 +1,5 @@
 <h1 align= "center"><b>Eateria</b></h1>
-
+<hr>
 <p align="center">Chaos in the cafeteria, not being able to pay in cash, confusion in what to eat, and a huge crowd in the cafeteria were some problems that were enough for a motivation to bring a single platform that would offer a convenient solution to all of these.
 'Eateria' is the name of this solution, disguised as an app, which tackles all these problems indisputably. The most promising feature of this app is that it provides you a complete list of the menu prepared in the cafeteria on the present day and also its price.
 Along with this user can pre-book the meal and a table for him as well, with the meal delivery time written on the screen, his overall eating experience becomes easy pocket friendly and structured.</p>
